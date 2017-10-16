@@ -1,2 +1,2 @@
 # New-Java-Course
-Studing 7bits
+Studing at 7bits company.
